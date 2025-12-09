@@ -40,7 +40,7 @@ export default function ButtonsPanel() {
           <span className="text-xs">
             Made by{" "}
             <a
-              href="https://rabiibouhestine.com/"
+              href="https://rabii.dev/"
               target="_blank"
               className="text-blue-800 dark:text-blue-300 hover:underline"
             >

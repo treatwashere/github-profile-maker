@@ -2,7 +2,7 @@
 
 A minimal README maker that lets users easily generate a **GitHub profile README** using customizable sections.
 
-Live demo: [github-profile-maker.netlify.app](https://github-profile-maker.netlify.app)
+Live demo: [github.rabii.dev](https://github.rabii.dev)
 
 ![](githubprofilemaker.png)
 
