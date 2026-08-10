@@ -23,7 +23,7 @@ export const initialSections: Section[] = [
       {
         id: 3,
         label: "Website",
-        message: "treatwashere.com",
+        message: "https://gitprofile-phi.vercel.app/",
         color: "darkgreen",
       },
     ],
