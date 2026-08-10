@@ -40,11 +40,11 @@ export default function ButtonsPanel() {
           <span className="text-xs">
             Made by{" "}
             <a
-              href="https://rabii.dev/"
+              href="https://treat.dev/"
               target="_blank"
               className="text-blue-800 dark:text-blue-300 hover:underline"
             >
-              Rabii Bouhestine
+              treat Bouhestine
             </a>
           </span>
         </div>
@@ -60,7 +60,7 @@ export default function ButtonsPanel() {
 
         <Button asChild variant="outline">
           <a
-            href="https://github.com/rabiibouhestine/github-profile-maker"
+            href="https://github.com/treatwashere/github-profile-maker"
             target="_blank"
           >
             <svg

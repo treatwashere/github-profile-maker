@@ -46,7 +46,7 @@ export default function TrophiesEditor() {
       s.id === selectedSectionID && s.type === "trophies"
   );
 
-  const username = selectedSection?.username ?? "rabiibouhestine";
+  const username = selectedSection?.username ?? "treatwashere";
   const align = selectedSection?.align ?? "center";
   const theme = selectedSection?.theme ?? "dracula";
   const title = selectedSection?.title ?? [];

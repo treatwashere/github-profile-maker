@@ -31,7 +31,7 @@ export default function StatsEditor() {
     (s): s is StatsSection => s.id === selectedSectionID && s.type === "stats"
   );
 
-  const username = selectedSection?.username ?? "rabiibouhestine";
+  const username = selectedSection?.username ?? "treatwashere";
   const align = selectedSection?.align ?? "center";
   const theme = selectedSection?.theme ?? "dracula";
   const rank_icon = selectedSection?.rank_icon ?? "default";

@@ -82,7 +82,7 @@ export default function AddSocial() {
         </div>
         <div className="grid grid-cols-6 gap-4 p-4">
           {filtered.map((item) => {
-            const src = `https://raw.githubusercontent.com/rabiibouhestine/github-profile-maker/refs/heads/main/src/assets/social/${item}/default.svg`;
+            const src = `https://raw.githubusercontent.com/treatwashere/github-profile-maker/refs/heads/main/src/assets/social/${item}/default.svg`;
             return (
               <div
                 key={item}

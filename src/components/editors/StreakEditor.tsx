@@ -33,7 +33,7 @@ export default function StreakEditor() {
     (s): s is StreakSection => s.id === selectedSectionID && s.type === "streak"
   );
 
-  const username = selectedSection?.username ?? "rabiibouhestine";
+  const username = selectedSection?.username ?? "treatwashere";
   const align = selectedSection?.align ?? "center";
   const theme = selectedSection?.theme ?? "dracula";
   const mode = selectedSection?.mode ?? "daily";

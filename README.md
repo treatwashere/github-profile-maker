@@ -2,7 +2,7 @@
 
 A minimal README maker that lets users easily generate a **GitHub profile README** using customizable sections.
 
-Live demo: [github.rabii.dev](https://github.rabii.dev)
+Live demo: [github.treat.dev](https://github.treat.dev)
 
 ![](githubprofilemaker.png)
 
@@ -32,7 +32,7 @@ Live demo: [github.rabii.dev](https://github.rabii.dev)
 1. Clone the repo:
 
 ```bash
-git clone https://github.com/rabiibouhestine/github-profile-maker.git
+git clone https://github.com/treatwashere/github-profile-maker.git
 cd github-profile-maker
 ```
 

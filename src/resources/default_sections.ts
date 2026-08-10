@@ -13,17 +13,17 @@ export const initialSections: Section[] = [
     type: "badges",
     align: "center",
     list: [
-      { id: 1, label: "Linkedin", message: "rabiibouhestine", color: "blue" },
+      { id: 1, label: "Linkedin", message: "treatwashere", color: "blue" },
       {
         id: 2,
         label: "Email",
-        message: "rabiibouhestine@gmail.com",
+        message: "treatwashere@gmail.com",
         color: "red",
       },
       {
         id: 3,
         label: "Website",
-        message: "rabiibouhestine.com",
+        message: "treatwashere.com",
         color: "darkgreen",
       },
     ],
@@ -65,7 +65,7 @@ export const initialSections: Section[] = [
   {
     id: 5,
     type: "trophies",
-    username: "rabiibouhestine",
+    username: "treatwashere",
     align: "center",
     theme: "dracula",
     title: [

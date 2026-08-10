@@ -22,7 +22,7 @@ export default function ActivityEditor() {
       s.id === selectedSectionID && s.type === "activity"
   );
 
-  const username = selectedSection?.username ?? "rabiibouhestine";
+  const username = selectedSection?.username ?? "treatwashere";
   const align = selectedSection?.align ?? "center";
   const custom_title = selectedSection?.custom_title ?? "Activity Graph";
   const theme = selectedSection?.theme ?? "dracula";

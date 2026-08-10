@@ -22,7 +22,7 @@ export default function LanguagesEditor() {
       s.id === selectedSectionID && s.type === "image"
   );
 
-  const username = selectedSection?.username ?? "rabiibouhestine";
+  const username = selectedSection?.username ?? "treatwashere";
   const align = selectedSection?.align ?? "center";
   const custom_title = selectedSection?.custom_title ?? "Most Used Languages";
   const theme = selectedSection?.theme ?? "dracula";

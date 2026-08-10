@@ -127,7 +127,7 @@ const sectionBuilders: {
     const imgs = section.list
       .map(
         (social: Social) =>
-          `<a href="${social.link}" target="_blank"><img src="https://raw.githubusercontent.com/rabiibouhestine/github-profile-maker/refs/heads/main/src/assets/social/${social.name}/default.svg" height="${section.size}" width="${section.size}" alt="${social.name}" /></a>`
+          `<a href="${social.link}" target="_blank"><img src="https://raw.githubusercontent.com/treatwashere/github-profile-maker/refs/heads/main/src/assets/social/${social.name}/default.svg" height="${section.size}" width="${section.size}" alt="${social.name}" /></a>`
       )
       .join("\n");
     return `<div align=${section.align}>\n${imgs}\n</div>`;

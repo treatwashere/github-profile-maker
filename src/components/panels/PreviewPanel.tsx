@@ -231,7 +231,7 @@ export default function PreviewPanel() {
                 {section.list.map((social) => (
                   <a key={social.name} href={social.link} target="_blank">
                     <img
-                      src={`https://raw.githubusercontent.com/rabiibouhestine/github-profile-maker/refs/heads/main/src/assets/social/${social.name}/default.svg`}
+                      src={`https://raw.githubusercontent.com/treatwashere/github-profile-maker/refs/heads/main/src/assets/social/${social.name}/default.svg`}
                       height={section.size}
                       width={section.size}
                       alt={social.name}
