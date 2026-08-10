@@ -40,11 +40,11 @@ export default function ButtonsPanel() {
           <span className="text-xs">
             Made by{" "}
             <a
-              href="https://treat.dev/"
+              href="https://gitprofile-phi.vercel.app/"
               target="_blank"
               className="text-blue-800 dark:text-blue-300 hover:underline"
             >
-              treat Bouhestine
+              treat
             </a>
           </span>
         </div>
